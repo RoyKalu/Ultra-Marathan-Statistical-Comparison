@@ -30,8 +30,7 @@ Link to original dataset:
 https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633
 
 ## Conclusion
-
-This project showcases my ability to handle large datasets, clean and process data, perform analysis, and communicate findings using visualizations. It demonstrates my proficiency in **data analysis**, **Python programming**, and the use of key libraries like **Pandas** and **Matplotlib**. These skills are valuable for roles in data science and analytics.
+This analysis of ultra-marathon performance provides insights into the differences in average speeds between male and female runners in 50km and 50 mi races. By highlighting USA participants and querying the dataset for these two race lengths, I was able to extract meaningful comparisons that reflect gender-based performance trends. On average, male runners perform at a higher speed than female runners in both the 50 km and 50 mi races. The average speed for male runners in the 50km race is 7.74 km/h, compared to 7.08 km/h for females. Similarly, in the 50 mi race, male runners average 7.25 mi/h, while female runners average 6.83 mi/h. These findings not only highlight gender differences in ultra-marathon performance but also provide an opportunity for further research into the factors that may contribute to these disparities. While the focus of this analysis was on gender-based performance, the broader trends in ultra-marathon running may provide valuable insights into the sport's development and the influence of changes in training, nutrition, and equipment on race times.
 
 ## My Contacts
 
